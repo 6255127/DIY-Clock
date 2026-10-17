@@ -2,7 +2,7 @@
 
 I wanted a little clock for my desk that wasn't just a phone screen, so I made one. It's a tiny wide TFT screen, four buttons and a buzzer, all running off an ESP32-C3. I drew the PCB, modelled the case and wrote the code myself.
 
-![Clock overview](images/overview.png)
+
 
 ## What it does
 
