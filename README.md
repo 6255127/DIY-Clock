@@ -26,7 +26,7 @@ Nothing fancy, just a 2 layer board with four mounting holes in the corners so i
 
 The case is printed in two parts, a base with posts for the PCB and a top plate that screws on. The screen slides into a slot at the front, and there are small holes so the buzzer doesn't sound muffled.
 
-![Case](images/case.png)
+![Case](images/case2.png)
 
 ## Firmware
 
