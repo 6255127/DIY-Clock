@@ -24,7 +24,7 @@ Nothing fancy, just a 2 layer board with four mounting holes in the corners so i
 
 ## Case
 
-The case is printed in two parts, a base with posts for the PCB and a top plate that screws on. The screen slides into a slot at the front, and there are small holes so the buzzer doesn't sound muffled.
+The case is printed in two parts, a base with posts for the PCB and a top plate that screws on. The screen slides into a slot at the front, and there are small holes so the buzzer doesn't sound muffled. And btw i did not design the spoiler myself i just got it of the internet 
 
 ![Case](images/case2.png)
 
